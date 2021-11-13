@@ -82,7 +82,7 @@ header {
 .item {
 	background-color:  white;
 	color:             #424242;
-	font-family:       Consolas;
+	font-family:       Consolas, Menlo, Monaco, Haskilg, monospace;
 	padding:           7px;
 	margin-left:       10px;
 	margin-top:        13px;
@@ -95,7 +95,7 @@ header {
 }
 
 .GerdaItemHighlighters {
-	font-family:       Consolas;
+	font-family:       Consolas, Menlo, Monaco, Haskilg, monospace;
 	color: dodgerblue;
 	font-size: 14;
 }
